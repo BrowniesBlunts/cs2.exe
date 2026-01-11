@@ -38,7 +38,7 @@ Evita que Windows use su capa híbrida de fullscreen (Fullscreen Optimizations),
 * Mejora consistencia de input
 * Menos interferencia del compositor de Windows
 
-**Recomendación 2026:**
+**Recomendación :**
 ✔ Activar
 
 ---
@@ -56,7 +56,7 @@ Ejecuta `cs2.exe` con privilegios elevados.
 * Puede mejorar compatibilidad con drivers, overlays y anti‑cheat
 * No aumenta FPS directamente
 
-**Recomendación 2026:**
+**Recomendación :**
 ✔ Opcional (activar solo si usas software externo o tienes problemas de permisos)
 
 ---
@@ -78,7 +78,7 @@ Subopciones más importantes:
 * Mantiene nitidez correcta en resoluciones no nativas
 * Mejora consistencia visual en 4:3 y stretched
 
-**Recomendación 2026:**
+**Recomendación :**
 ✔ Activar y usar **Application**
 
 ---
@@ -96,7 +96,7 @@ Simula versiones antiguas de Windows (Windows 7, 8, etc.).
 * Rompe funciones modernas del sistema
 * No aporta beneficios reales
 
-**Recomendación 2026:**
+**Recomendación :**
 ✖ NO activar
 
 ---
@@ -111,7 +111,7 @@ Opciones heredadas para software antiguo.
 * Ningún beneficio
 * Puede causar errores de renderizado
 
-**Recomendación 2026:**
+**Recomendación :**
 ✖ NO usar
 
 ---
@@ -124,7 +124,7 @@ Opciones heredadas para software antiguo.
 | Run as administrator             | Opcional    |
 | High DPI → Application           | Activado    |
 | Compatibility mode               | Desactivado |
-| Reduced color / 640x480          | Desactivado |
+| Reduced color / 640x480          |             |
 
 <img width="799" height="691" alt="{381E96BD-8BCC-484F-8B90-EF990AE3D775}" src="https://github.com/user-attachments/assets/0ffc22c3-402a-4275-af33-cbf4a93cf7e3" />
 
